@@ -1,13 +1,14 @@
-# Ow1Lab 
+# Ow1Lab
 
-This is a experimental project that we do. Here we like to think diffently on how we develop project and how we can improve the way we are doing thing.
+Ow1Lab is an experimental organization focused on rethinking how software is developed.  
+We explore alternative approaches to building projects and improving development workflows.
 
 ---
 
 ## What We Do
 
-- To make develop a web app easier for developeres
-- Experimental things
+- Make web application development easier for developers
+- Build and explore experimental tools and ideas
 
 ---
 
@@ -15,9 +16,7 @@ This is a experimental project that we do. Here we like to think diffently on ho
 
 Selected repositories:
 
-- **[NoctiForge](https://github.com/ow1lab/NoctiForge)** — This is a function runnner that can be used locally and on the selfhosted
-
-View all repositories: https://github.com/org?tab=repositories
+- **[NoctiForge](https://github.com/ow1lab/NoctiForge)** — A function runner that can be used locally or in a self-hosted environment
 
 ---
 
@@ -55,3 +54,4 @@ Contributions are welcome.
 ## License
 
 Each repository includes its own license unless stated otherwise.
+
